@@ -1,11 +1,11 @@
-👋 Hi, I'm Tamzid.
+##👋 Hi, I'm Tamzid.
 
 🎓 CSE Undergraduate (2nd Semester)  
 🏫 University of Chittagong (CU)  
 💻 Learning Programming & Problem Solving  
 
-### 🔭 Currently Learning
-
+##🛠️ Currently Learning
+- C Programming
 - Data Structures (Basic)
 - Git & GitHub
 
@@ -16,6 +16,6 @@
 - Git
 - GitHub
 - Basic Linux / Terminal
-
-### 📫 Contact Me
-- Email: tamzidaljawad478@gmail.com
+- ### 📊 GitHub Stats
+  
+![Tamzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid478-git&show_icons=true&theme=tokyonight)
