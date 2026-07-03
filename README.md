@@ -1,48 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello,+Welcome+to+My+Universe!;I'm+a+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+a+CSE+Student+%40+CU;Passionate+about+Problem+Solving!;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding Animation">
-</div>
-
-<br>
-
-## 👨‍🎓 About Me
-
-- 🎓 I'm currently studying **Computer Science & Engineering** at the **University of Chittagong**.
-- 🎯 Future Goal: To become a highly skilled **Software Engineer**.
-- 💡 Highly passionate about **Problem Solving** and Algorithm Design.
-- 📚 Currently sharpening my skills in **Data Structures** and **Object-Oriented Programming (OOP)**.
-
-## 💻 Tech Stack & Skills
-
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYydnI2Zjh4c3Z6eW9kOWk3eWwzamRlaG1pZGRpMWsxeWd2M3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPZG/giphy.gif" width="320" alt="Coding Animation">
 </p>
 
-**Core Concepts & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge&logo=coding&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/TikZ-000000?style=for-the-badge&logo=graphic-design&logoColor=white" alt="TikZ" />
+### 👨‍💻 About Me
+- 🎓 Studying **Computer Science & Engineering** at **University of Chittagong (CU)**.
+- 💡 Deeply interested in **Problem Solving**, **Data Structures**, and **Object-Oriented Programming (OOP)**.
+- 🎯 On a dedicated journey to become a skilled **Software Engineer**.
+- ✍️ Experienced in academic writing & vector diagramming using **LaTeX** & **TikZ**.
+- ⚡ **Goal:** Building impactful software and mastering core algorithmic concepts.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=codesandbox&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/TikZ-8A2BE2?style=for-the-badge&logo=overleaf&logoColor=white" alt="TikZ" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+### 📊 GitHub Activity & Stats
 
-<br>
+<!-- নিচের লিংকের 'YOUR_GITHUB_USERNAME' কেটে আপনার আসল গিটহাব ইউজারনেমটি বসিয়ে দেবেন -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Animation">
 </p>
+
+<h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3>
