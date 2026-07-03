@@ -1,23 +1,20 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Coding GIF">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYydnI2Zjh4c3Z6eW9kOWk3eWwzamRlaG1pZGRpMWsxeWd2M3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPZG/giphy.gif" width="320" alt="Coding Animation">
+</p>
 
-### 👨‍💻 Who am I?
-
-Hi! I am **MD. Tamzid AL-Jawad**, a passionate **Computer Science & Engineering** student at the **University of Chittagong (CU)**. I enjoy tackling complex logic and finding elegant solutions to difficult problems.
-
-My main focus revolves around **Data Structures**, **Algorithms**, and **Object-Oriented Programming (OOP)**. I love spending time sharpening my problem-solving skills. 
-
-When I'm not writing efficient code in **C or C++**, you might find me designing neat vector graphics and academic documents using **LaTeX & TikZ** or exploring data with **R Programming**. I believe in continuous learning and always strive to write clean, impactful code.
-
-🌱 *"Solving one problem at a time."*
-
-<br/>
-<br/>
+### 👨‍💻 About Me
+- 🎓 Studying **Computer Science & Engineering** at **University of Chittagong (CU)**.
+- 💡 Deeply interested in **Problem Solving**, **Data Structures**, and **Object-Oriented Programming (OOP)**.
+- 🎯 On a dedicated journey to become a skilled **Software Engineer**.
+- ✍️ Experienced in academic writing & vector diagramming using **LaTeX** & **TikZ**.
+- ⚡ **Goal:** Building impactful software and mastering core algorithmic concepts.
 
 ---
 
@@ -44,7 +41,15 @@ When I'm not writing efficient code in **C or C++**, you might find me designing
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Animation">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Animation">
 </p>
 
-<h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3>
+<h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3><div align="center">
+  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Coding GIF">
+
+
