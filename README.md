@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, Welcome to My Universe!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+a+CSE+Student+%40+CU;Passionate+about+Problem+Solving!;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="350" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYydnI2Zjh4c3Z6eW9kOWk3eWwzamRlaG1pZGRpMWsxeWd2M3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPZG/giphy.gif" width="320" alt="Coding Animation">
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently a Computer Science & Engineering student.
-- 💻 Deeply interested in **Object-Oriented Programming (OOP)** and building robust applications.
-- 🚀 Actively engaged in **Competitive Programming** and algorithmic problem solving using **C++** and **Python**.
-- 🌍 Based in Bangladesh.
+- 🎓 Studying **Computer Science & Engineering** at **University of Chittagong (CU)**.
+- 💡 Deeply interested in **Problem Solving**, **Data Structures**, and **Object-Oriented Programming (OOP)**.
+- 🎯 On a dedicated journey to become a skilled **Software Engineer**.
+- ✍️ Experienced in academic writing & vector diagramming using **LaTeX** & **TikZ**.
+- ⚡ **Goal:** Building impactful software and mastering core algorithmic concepts.
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=codesandbox&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/TikZ-8A2BE2?style=for-the-badge&logo=overleaf&logoColor=white" alt="TikZ" />
 </p>
 
 ---
-<p align="center"><i>"Code + Problem Solving = Perfect Day!"</i></p>
-![Tamzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid478-git&show_icons=true&theme=tokyonight)
+
+### 📊 GitHub Activity & Stats
+
+<!-- নিচের লিংকের 'YOUR_GITHUB_USERNAME' কেটে আপনার আসল গিটহাব ইউজারনেমটি বসিয়ে দেবেন -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Animation">
+</p>
+
+<h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3>
