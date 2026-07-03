@@ -6,15 +6,18 @@
 
 ##🛠️ Currently Learning
 - C Programming
-- Data Structures (Basic)
+- Data Structures 
 - Git & GitHub
+- R programming
 
 ### 🛠️ Skills
 - C
 - C++
+- R
 - OOP
 - Git
 - GitHub
+- Latex
 - Basic Linux / Terminal
 - ### 📊 GitHub Stats
   
