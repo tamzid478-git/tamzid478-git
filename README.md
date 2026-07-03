@@ -34,15 +34,6 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emon4075&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Animation">
-</p>
 
 <h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3><div align="center">
   <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
