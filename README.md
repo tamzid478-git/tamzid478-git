@@ -14,7 +14,7 @@
   <tr>
     <td width="65%" bgcolor="#0d1117" style="padding: 15px; border-radius: 8px;">
       <pre style="margin: 0; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.5; color: #abb2bf;"><span style="color: #e5c07b;">{</span>
-  <span style="color: #98c379;">"name"</span>: <span style="color: #00f7ff;">"Md. TAmzid Al- Jawad"</span>,
+  <span style="color: #98c379;">"name"</span>: <span style="color: #00f7ff;">"Md. Tamzid Al- Jawad"</span>,
   <span style="color: #98c379;">"education"</span>: <span style="color: #00f7ff;">"Computer Science & Engineering"</span>,
   <span style="color: #98c379;">"university"</span>: <span style="color: #00f7ff;">"University of Chittagong"</span>,
   <span style="color: #98c379;">"focus"</span>: <span style="color: #e5c07b;">[</span><span style="color: #00f7ff;">"Data Structures"</span>, <span style="color: #00f7ff;">"Algorithms"</span>, <span style="color: #00f7ff;">"OOP"</span><span style="color: #e5c07b;">]</span>,
