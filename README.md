@@ -112,7 +112,7 @@
 ### 🏆 Competitive Programming Stats
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tamzid_478&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
