@@ -56,8 +56,8 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_FACEBOOK_URL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.linkedin.com/in/tamzid-al-jawad-06370539b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/share/1EP4B5gRea/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:tamzid478@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -80,13 +80,6 @@
 </p>
 
 ---
-
-### 💤 Dev Dashboard
-
-<p align="center">
-  <!-- এটি Daily.dev এর কার্ড। আপনার daily.dev প্রোফাইল থাকলে লিংক বসাতে পারেন। -->
-  <img src="https://api.daily.dev/devcards/v2/YOUR_DAILY_DEV_ID.png?r=81q&type=default" width="350" alt="Daily.dev Card" />
-</p>
 
 ---
 
@@ -112,10 +105,7 @@
 ### 🏆 Competitive Programming Stats
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=https://codeforces.com/profile/Tamzid_478&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tamzid_478&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
 </p>
 
 ---
@@ -128,13 +118,7 @@
 
 ---
 
-### 🎧 Currently Jamming To
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" />
-</p>
-
----
 
 ### 💬 Random Dev Quote
 
