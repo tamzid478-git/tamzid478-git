@@ -63,10 +63,7 @@
 
 <h4 align="center">🏆 Competitive Programming Profiles</h4>
 <p align="center">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"></a>
+  <a href="https://codeforces.com/profile/Tamzid_478" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
 </p>
 
 ---
