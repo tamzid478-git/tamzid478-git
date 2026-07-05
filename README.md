@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;I'm+MD.+Tamzid+AL-Jawad;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;I'm+MD.+Tamzid+AL-Jawad;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -10,7 +10,10 @@
 
 ### 👨‍💻 About Me
 
-
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <pre><code>
 {
   "name": "MD. Tamzid AL-Jawad",
   "located_in": "Chittagong, Bangladesh 🇧🇩",
