@@ -115,7 +115,3 @@
 <p align="center">🚀 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House</p>
 <p align="center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! ✨</p>
 <p align="center">📫 Reach me at: <b>tamzid478@gmail.com</b></p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/tamzid478-git/count.svg" alt="https://github.com/tamzid478-git" />
-</p>
