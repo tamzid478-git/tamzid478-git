@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/84n3XEnF0o164YbbVp/giphy.gif" width="200" alt="Ralph Wiggum Waving">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYydnI2Zjh4c3Z6eW9kOWk3eWwzamRlaG1pZGRpMWsxeWd2M3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPZG/giphy.gif" width="250" alt="Coding Animation">
 </p>
 
 ### 📌 About Me
@@ -20,12 +20,12 @@
   "university": "University of Chittagong",
   "focus": ["Data Structures", "Algorithms", "OOP"],
   "skills": ["C/C++", "R", "LaTeX", "TikZ"],
-  "passion": "Competitive Programming",
+  "passion": "Competitive Programming"
 }
       </code></pre>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="220" alt="Coding GIF">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Coding GIF">
     </td>
   </tr>
 </table>
@@ -96,8 +96,6 @@
 
 ---
 
-
-
 ### 💬 Random Dev Quote
 
 <p align="center">
@@ -113,5 +111,5 @@
 ---
 
 <p align="center">🚀 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House</p>
-<p align="center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! ✨</p>
+<p align="center">I love connecting with different people so if you want to say hi, I'll be happy to meet you! ✨</p>
 <p align="center">📫 Reach me at: <b>tamzid478@gmail.com</b></p>
