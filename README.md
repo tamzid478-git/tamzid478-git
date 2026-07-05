@@ -16,13 +16,11 @@
       <pre><code>
 {
   "name": "MD. Tamzid AL-Jawad",
-  "located_in": "Chittagong, Bangladesh 🇧🇩",
   "education": "Computer Science & Engineering",
   "university": "University of Chittagong",
   "focus": ["Data Structures", "Algorithms", "OOP"],
   "skills": ["C/C++", "R", "LaTeX", "TikZ"],
   "passion": "Competitive Programming",
-  "fun_fact": "Code + Biryani = Perfect Day! 🍛"
 }
       </code></pre>
     </td>
@@ -65,18 +63,6 @@
 <p align="center">
   <a href="https://codeforces.com/profile/Tamzid_478" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
 </p>
-
----
-
-### 📝 Latest Medium Article
-
-<p align="center">
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
-    <img src="https://github-readme-medium-card.vercel.app/api?username=YOUR_MEDIUM_USERNAME&theme=tokyonight" alt="Medium Articles" />
-  </a>
-</p>
-
----
 
 ---
 
