@@ -117,5 +117,5 @@
 <p align="center">📫 Reach me at: <b>tamzid478@gmail.com</b></p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tamzid478-git/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/tamzid478-git/count.svg" alt="https://github.com/tamzid478-git" />
 </p>
