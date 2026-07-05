@@ -68,11 +68,6 @@
 
 ### 📊 GitHub Analytics
 
-<h4 align="center">🏆 GitHub Trophies</h4>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamzid478-git&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
 <h4 align="center">🔥 Contribution Streak</h4>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamzid478-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
