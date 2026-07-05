@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-```json
+
 {
   "name": "MD. Tamzid AL-Jawad",
   "located_in": "Chittagong, Bangladesh 🇧🇩",
