@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Welcome+to+My+Universe!;I'm+MD.+Tamzid+AL-Jawad;Studying+CSE+%40+CU;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Welcome+to+My+Universe!;I'm+Md.+TAmzid+Al-+Jawad;Studying+in+CSECU;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,19 +12,17 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%">
-      <pre><code>
-{
-  "name": "MD. Tamzid AL-Jawad",
-  "education": "Computer Science & Engineering",
-  "university": "University of Chittagong",
-  "focus": ["Data Structures", "Algorithms", "OOP"],
-  "skills": ["C/C++", "R", "LaTeX", "TikZ"],
-  "passion": "Competitive Programming"
-}
-      </code></pre>
+    <td width="65%" bgcolor="#0d1117" style="padding: 15px; border-radius: 8px;">
+      <pre style="margin: 0; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.5; color: #abb2bf;"><span style="color: #e5c07b;">{</span>
+  <span style="color: #98c379;">"name"</span>: <span style="color: #00f7ff;">"Md. TAmzid Al- Jawad"</span>,
+  <span style="color: #98c379;">"education"</span>: <span style="color: #00f7ff;">"Computer Science & Engineering"</span>,
+  <span style="color: #98c379;">"university"</span>: <span style="color: #00f7ff;">"University of Chittagong"</span>,
+  <span style="color: #98c379;">"focus"</span>: <span style="color: #e5c07b;">[</span><span style="color: #00f7ff;">"Data Structures"</span>, <span style="color: #00f7ff;">"Algorithms"</span>, <span style="color: #00f7ff;">"OOP"</span><span style="color: #e5c07b;">]</span>,
+  <span style="color: #98c379;">"skills"</span>: <span style="color: #e5c07b;">[</span><span style="color: #00f7ff;">"C/C++"</span>, <span style="color: #00f7ff;">"R"</span>, <span style="color: #00f7ff;">"LaTeX"</span>, <span style="color: #00f7ff;">"TikZ"</span><span style="color: #e5c07b;">]</span>,
+  <span style="color: #98c379;">"passion"</span>: <span style="color: #00f7ff;">"Competitive Programming"</span>
+<span style="color: #e5c07b;">}</span></pre>
     </td>
-    <td width="40%" align="center">
+    <td width="35%" align="center">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="Coding GIF">
     </td>
   </tr>
