@@ -1,44 +1,159 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+Universe!;I'm+MD.+Tamzid+AL-Jawad;Studying+CSE+@+CU;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYydnI2Zjh4c3Z6eW9kOWk3eWwzamRlaG1pZGRpMWsxeWd2M3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPZG/giphy.gif" width="320" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/84n3XEnF0o164YbbVp/giphy.gif" width="200" alt="Ralph Wiggum Waving">
 </p>
 
-### 👨‍💻 About Me
-- 🎓 Studying **Computer Science & Engineering** at **University of Chittagong (CU)**.
-- 💡 Deeply interested in **Problem Solving**, **Data Structures**, and **Object-Oriented Programming (OOP)**.
-- 🎯 On a dedicated journey to become a skilled **Software Engineer**.
-- ✍️ Experienced in academic writing & vector diagramming using **LaTeX** & **TikZ**.
-- ⚡ **Goal:** Building impactful software and mastering core algorithmic concepts.
+### 📌 About Me
 
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=codesandbox&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/TikZ-8A2BE2?style=for-the-badge&logo=overleaf&logoColor=white" alt="TikZ" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <pre><code>
+{
+  "name": "MD. Tamzid AL-Jawad",
+  "located_in": "Chittagong, Bangladesh 🇧🇩",
+  "education": "Computer Science & Engineering",
+  "university": "University of Chittagong",
+  "focus": ["Data Structures", "Algorithms", "OOP"],
+  "skills": ["C/C++", "R", "LaTeX", "TikZ"],
+  "passion": "Competitive Programming",
+  "fun_fact": "Code + Biryani = Perfect Day! 🍛"
+}
+      </code></pre>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="220" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Coding GIF">
+### 🛠 Tech Arsenal
 
-<h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3><div align="center">
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,r" alt="Programming Languages" />
+</p>
+
+<h4 align="center">Tools & Technologies</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,latex,arduino" alt="Tools" />
+</p>
+
+<h4 align="center">Platforms & Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,figma,ps,mysql" alt="Platforms" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="YOUR_FACEBOOK_URL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:tamzid478@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<h4 align="center">🏆 Competitive Programming Profiles</h4>
+<p align="center">
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"></a>
+</p>
+
+---
+
+### 📝 Latest Medium Article
+
+<p align="center">
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+    <img src="https://github-readme-medium-card.vercel.app/api?username=YOUR_MEDIUM_USERNAME&theme=tokyonight" alt="Medium Articles" />
+  </a>
+</p>
+
+---
+
+### 💤 Dev Dashboard
+
+<p align="center">
+  <!-- এটি Daily.dev এর কার্ড। আপনার daily.dev প্রোফাইল থাকলে লিংক বসাতে পারেন। -->
+  <img src="https://api.daily.dev/devcards/v2/YOUR_DAILY_DEV_ID.png?r=81q&type=default" width="350" alt="Daily.dev Card" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<h4 align="center">🏆 GitHub Trophies</h4>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tamzid478-git&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<h4 align="center">🔥 Contribution Streak</h4>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamzid478-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h4 align="center">📈 Activity Graph</h4>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamzid478-git&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 Competitive Programming Stats
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight&show_icons=true" alt="Codeforces Stats" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🔥 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamzid478-git&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+### 🎧 Currently Jamming To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+### 😂 Random Tech Humor
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+</p>
+
+---
+
+<p align="center">🚀 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House</p>
+<p align="center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! ✨</p>
+<p align="center">📫 Reach me at: <b>tamzid478@gmail.com</b></p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/tamzid478-git/count.svg" alt="Profile Views" />
+</p>
