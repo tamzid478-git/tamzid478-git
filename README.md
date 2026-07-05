@@ -1,19 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+Universe!;I'm+MD.+Tamzid+AL-Jawad;Studying+CSE+@+CU;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+My+Universe!;I'm+MD.+Tamzid+AL-Jawad;Studying+in+CSECU;Passionate+about+Problem+Solving!" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/84n3XEnF0o164YbbVp/giphy.gif" width="200" alt="Ralph Wiggum Waving">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYydnI2Zjh4c3Z6eW9kOWk3eWwzamRlaG1pZGRpMWsxeWd2M3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPZG/giphy.gif" width="320" alt="Coding Animation">
 </p>
 
-### 📌 About Me
+### 👨‍💻 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%">
-      <pre><code>
+```json
 {
   "name": "MD. Tamzid AL-Jawad",
   "located_in": "Chittagong, Bangladesh 🇧🇩",
@@ -27,28 +24,30 @@
       </code></pre>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="220" alt="Coding GIF">
+      <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="240" alt="Coding GIF">
     </td>
   </tr>
 </table>
 
 <br/>
 
+---
+
 ### 🛠 Tech Arsenal
 
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">🚀 Programming Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,r" alt="Programming Languages" />
 </p>
 
-<h4 align="center">Tools & Technologies</h4>
+<h4 align="center">🧰 Tools & Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,vscode,latex,arduino" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,latex,arduino" alt="Tools" />
 </p>
 
 <h4 align="center">Platforms & Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,figma,ps,mysql" alt="Platforms" />
+  <img src="https://skillicons.dev/icons?i=discord,figma,ps" alt="Platforms" />
 </p>
 
 ---
@@ -65,37 +64,11 @@
 <p align="center">
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"></a>
-</p>
-
----
-
-### 📝 Latest Medium Article
-
-<p align="center">
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
-    <img src="https://github-readme-medium-card.vercel.app/api?username=YOUR_MEDIUM_USERNAME&theme=tokyonight" alt="Medium Articles" />
-  </a>
-</p>
-
----
-
-### 💤 Dev Dashboard
-
-<p align="center">
-  <!-- এটি Daily.dev এর কার্ড। আপনার daily.dev প্রোফাইল থাকলে লিংক বসাতে পারেন। -->
-  <img src="https://api.daily.dev/devcards/v2/YOUR_DAILY_DEV_ID.png?r=81q&type=default" width="350" alt="Daily.dev Card" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
-
-<h4 align="center">🏆 GitHub Trophies</h4>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamzid478-git&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
 
 <h4 align="center">🔥 Contribution Streak</h4>
 <p align="center">
@@ -120,39 +93,13 @@
 
 ---
 
-### 🔥 GitHub Profile Summary
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamzid478-git&theme=tokyonight" alt="Profile Details" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Animation">
 </p>
 
----
-
-### 🎧 Currently Jamming To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" />
-</p>
-
----
-
-### 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-### 😂 Random Tech Humor
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
-</p>
-
----
-
-<p align="center">🚀 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House</p>
-<p align="center">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! ✨</p>
-<p align="center">📫 Reach me at: <b>tamzid478@gmail.com</b></p>
+<h3 align="center">🚀 "Code, Solve, and Never Stop Learning!"</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/tamzid478-git/count.svg" alt="Profile Views" />
